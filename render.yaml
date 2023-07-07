@@ -1,6 +1,6 @@
-services:
+services:telegram
   - type: web
-    name: GURU-BOT
+    name: ash ketchum x pc
     env: docker
-    region: Frankfurt
+    region: india
     plan: free
